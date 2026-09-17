@@ -35,4 +35,4 @@ Este projeto foi construído com fins exclusivamente educacionais para compreend
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/jota1jpg/Port-Scanner-Basic-py.git](https://github.com/jota1jpg/Port-Scanner-Basic-py.git)
+   git clone https://github.com/jota1jpg/Port-Scanner-Basic-py.git
